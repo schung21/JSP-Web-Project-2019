@@ -16,5 +16,6 @@
 
 서울시내 여행 가이드 컨셉으로 개발한 사이트입니다. 로그인 기능, 지역별 장소 검색, 주변 숙소 예약, 여행 코스 계획 기능이 전부 포함 되있습니다.   
 
-## Release File
+## Release File (.zip)
 
+https://github.com/schung21/JSP-Web-Project-2019/releases
